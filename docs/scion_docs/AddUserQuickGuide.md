@@ -1,4 +1,9 @@
-# The Quick Guide to Adding a New User
+---
+sort: 1
+---
+
+# Quick Guide - Add User
+
 Note that most of our Trac instances and SVN repositories are readable by
 everyone. In other words, if someone only needs read access to something
 that already permits anonymous read access, you don't need to add them as 
