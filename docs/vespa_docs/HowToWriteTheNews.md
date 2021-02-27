@@ -1,5 +1,5 @@
 ---
-sort: 4
+sort: 3
 ---
 
 # How to Write the NEWS File
