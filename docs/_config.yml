@@ -2,7 +2,8 @@ title: Vespa Documentation
 lang: en
 description: Installation, application user manuals, technical development topics, and more!
 
-remote_theme: clearpathrobotics/jekyll-rtd-theme
+# remote_theme: clearpathrobotics/jekyll-rtd-theme
+remote_theme: tomjoht/documentation-theme-jekyll
 
 readme_index:
   with_frontmatter: true
